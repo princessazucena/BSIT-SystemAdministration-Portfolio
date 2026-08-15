@@ -2,7 +2,7 @@
 
 **Course:** ITEP 414 – System Administration and Maintenance
 **Program:** BS Information Technology
-**Student:** [Your Name]
+**Student:** Princess Anne B. Azucena
 
 Project Overview
 This project simulates the role of a Junior System Administrator tasked with
